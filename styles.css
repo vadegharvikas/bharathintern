@@ -1,0 +1,29 @@
+
+.total{
+ text-align: center;
+ align-items: center;
+}
+.input_container {
+    text-align: center;
+    margin: 100px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    max-width: 600px;
+    background-color: #f5f5f5;
+}
+
+.input-container {
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #0074cc;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056a1;
+}
